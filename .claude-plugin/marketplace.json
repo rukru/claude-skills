@@ -1,0 +1,14 @@
+{
+  "name": "rukru-claude-skills",
+  "owner": {
+    "name": "Timofey",
+    "url": "https://github.com/rukru"
+  },
+  "plugins": [
+    {
+      "name": "data-analysis",
+      "source": "./plugins/data-analysis",
+      "description": "Протокол анализа CSV/Excel: профилирование → аномалии → описательная статистика → паттерны → executive summary с обязательными PNG-графиками"
+    }
+  ]
+}

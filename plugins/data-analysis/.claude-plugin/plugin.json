@@ -1,0 +1,11 @@
+{
+  "name": "data-analysis",
+  "version": "1.0.0",
+  "description": "Протокол анализа данных: профилирование, аномалии, описательная статистика, паттерны, executive summary с обязательными PNG-графиками",
+  "author": {
+    "name": "Timofey",
+    "url": "https://github.com/rukru"
+  },
+  "homepage": "https://github.com/rukru/claude-skills/tree/main/plugins/data-analysis",
+  "license": "MIT"
+}
